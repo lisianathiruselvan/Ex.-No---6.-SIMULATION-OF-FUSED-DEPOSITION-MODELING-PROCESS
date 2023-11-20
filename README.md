@@ -24,6 +24,8 @@
 
 ## Output:
 
+![image](https://github.com/lisianathiruselvan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119389971/403f33ed-91a4-4fc8-b8e2-0df789ba6bda)
+
 ### Name:T.LISIANA
 ### Register Number:212222240053
 
